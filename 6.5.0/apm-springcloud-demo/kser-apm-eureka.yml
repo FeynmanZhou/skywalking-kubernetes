@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Service
 metadata:
   name: apm-eureka
-  namespace: skywalking
+  namespace: demo
   labels:
     service: apm-eureka
 spec:
